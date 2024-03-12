@@ -8,9 +8,9 @@ main(){
     scanf("%d",&b);
 
     if(a<b){
-        printf("Minimum number is : %d",a);
+        printf("maximum number is : %d",a);
     }
     else{
-        printf("Minimum number is : %d",b);
+        printf("maximum number is : %d",b);
     }
 }
