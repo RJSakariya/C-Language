@@ -10,7 +10,6 @@ int fact(int f) {
         return f *= fact(f-1);
     }
 }
-
 int main() {
     int fac;
     printf("Enter fact size : ");
